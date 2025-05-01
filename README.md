@@ -1,7 +1,7 @@
 # 🔐 Zip-Cracker 🔐
 
 <div align="center">
-    <img src="2.pnf" alt=" لوگو" width="300" />
+    <img src="2.png" alt=" لوگو" width="300" />
 </div>
 
 
