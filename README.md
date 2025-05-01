@@ -1,6 +1,8 @@
 # 🔐 Zip-Cracker 🔐
 
-<img src="2.png" alt="لوگو" width="200" />
+<img src="2.png" alt="لوگو" width="400" />
+
+
 یک ابزار قدرتمند برای کرک پسورد فایل‌های ZIP با استفاده از لیست کلمات
 
 ![Version](https://img.shields.io/badge/version-1.2-blue)
