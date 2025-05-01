@@ -1,6 +1,9 @@
 # 🔐 Zip-Cracker 🔐
 
-<img src="2.png" alt="لوگو" width="400" />
+<div align="center">
+    <img src="2.pnf" alt=" لوگو" width="300" />
+</div>
+
 
 
 یک ابزار قدرتمند برای کرک پسورد فایل‌های ZIP با استفاده از لیست کلمات
