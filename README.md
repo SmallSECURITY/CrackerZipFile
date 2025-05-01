@@ -1,9 +1,8 @@
-# 🔐 Zip-Cracker 🔐
-
 <div align="center">
-    <img src="2.png" alt=" لوگو" width="300" />
+    <img src="2.png" alt=" لوگو" width="300" style="border-radius: 15px; margin-top: 20px; margin-bottom: 20px;" />
 </div>
 
+# 🔐 Zip-Cracker 🔐
 
 
 یک ابزار قدرتمند برای کرک پسورد فایل‌های ZIP با استفاده از لیست کلمات
